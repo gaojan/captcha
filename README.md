@@ -1,2 +1,3 @@
-# captcha
-Image verification code
+# 介绍
+
+go语言图形验证码,支持十以内数字公式和字符串，可设置验证码长度、图像大小、噪点。
